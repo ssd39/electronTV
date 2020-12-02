@@ -7,4 +7,4 @@ To run elctronTV:<br>
  npm install<br>
  npm start
 
-If you facing error that channel are loaded but video is not playing then reload the elctronTV from view tab.
+If you facing error that channels are loaded but video is not playing then reload the elctronTV from view tab.
