@@ -1,7 +1,7 @@
 # electronTV
 
 elctronTV is pc version of JioTV.
-Your pc need to be connected with jio network via your mobile hotspot or jiofiber network to watch elctronTV for first time then you can switch to other network.
+For first time your pc need to be connected with jio network via your mobile hotspot or jiofiber network to watch elctronTV then you can switch to other network.
 
 To run elctronTV:<br>
  npm install<br>
